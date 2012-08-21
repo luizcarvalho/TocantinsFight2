@@ -1,0 +1,29 @@
+<lutas>
+	<luta>
+		<contador>1</contador>
+		<lutador1>Luiz Carvalho</lutador1>
+		<lutador2>Billy D'Kid</lutador2>
+		<horario>19:00</horario>
+	</luta>
+	
+	<luta>
+		<contador>2</contador>
+		<lutador1>Brian Adamns</lutador1>
+		<lutador2>K Worang</lutador2>
+		<horario>20:00</horario>
+	</luta>
+	
+	<luta>
+		<contador>3</contador>
+		<lutador1>José Aldo</lutador1>
+		<lutador2>Nic Esteves</lutador2>
+		<horario>21:00</horario>
+	</luta>
+	
+	<luta>
+		<contador>4</contador>
+		<lutador1>Anderson Silva</lutador1>
+		<lutador2>Michael Jackson</lutador2>
+		<horario>22:00</horario>
+	</luta>
+</lutas>
