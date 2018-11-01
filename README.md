@@ -1,4 +1,4 @@
 TocantinsFight
 ==============
 
-Ginga Appication for Tocantins Mixed Martial Art in Local TV
+Ginga Application for Tocantins Mixed Martial Art in Local TV
